@@ -1,0 +1,9 @@
+2025-11-24 19:32:19,082 - INFO - Dispositivo detectado: cuda
+2025-11-24 19:32:34,209 - INFO - Semilla establecida en 42
+2025-11-24 19:32:34,210 - INFO - Configuración global lista.
+2025-11-24 19:32:39,709 - INFO - Total imágenes: 2513 | Clases: 20 | Train: 1751 | Val: 367 | Test: 395
+2025-11-24 19:33:19,118 - INFO - Cargando modelo convnextv2_base.fcmae_ft_in22k_in1k
+2025-11-24 19:33:41,396 - INFO - Parámetros totales: 87.71M
+2025-11-24 19:33:41,399 - INFO - Batches -> Train: 28 | Val: 6 | Test: 7
+2025-11-24 19:38:10,638 - INFO - Backbone congelado, solo el head es entrenable.
+2025-11-24 19:38:10,640 - INFO - ==== Iniciando Fase 1: Warm-up del head ====
