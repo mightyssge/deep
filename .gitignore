@@ -3,3 +3,7 @@
 /SIMPD V1 South Indian Medicinal Plants dataset (Version 1)
 /data.ipynb
 /Redes_Siamesas (2).ipynb
+/lightning_logs/
+*.pth
+*.ckpt
+/lightning_logs
