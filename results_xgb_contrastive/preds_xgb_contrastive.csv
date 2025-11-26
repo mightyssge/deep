@@ -1,0 +1,396 @@
+filepath,true_label,pred_label,correct
+dataset_split\test\Abutilon Indicum\006.jpg,Abutilon Indicum,Canna indica,False
+dataset_split\test\Abutilon Indicum\007.jpg,Abutilon Indicum,Abutilon Indicum,True
+dataset_split\test\Abutilon Indicum\008.jpg,Abutilon Indicum,Abutilon Indicum,True
+dataset_split\test\Abutilon Indicum\022.jpg,Abutilon Indicum,Abutilon Indicum,True
+dataset_split\test\Abutilon Indicum\023.jpg,Abutilon Indicum,Abutilon Indicum,True
+dataset_split\test\Abutilon Indicum\026.jpg,Abutilon Indicum,Abutilon Indicum,True
+dataset_split\test\Abutilon Indicum\028.jpg,Abutilon Indicum,Abutilon Indicum,True
+dataset_split\test\Abutilon Indicum\035.jpg,Abutilon Indicum,Abutilon Indicum,True
+dataset_split\test\Abutilon Indicum\050.jpg,Abutilon Indicum,Abutilon Indicum,True
+dataset_split\test\Abutilon Indicum\055.jpg,Abutilon Indicum,Abutilon Indicum,True
+dataset_split\test\Abutilon Indicum\056.jpg,Abutilon Indicum,Abutilon Indicum,True
+dataset_split\test\Abutilon Indicum\057.jpg,Abutilon Indicum,Abutilon Indicum,True
+dataset_split\test\Abutilon Indicum\059.jpg,Abutilon Indicum,Eclipta prostrate,False
+dataset_split\test\Abutilon Indicum\062.jpg,Abutilon Indicum,Abutilon Indicum,True
+dataset_split\test\Abutilon Indicum\070.jpg,Abutilon Indicum,Abutilon Indicum,True
+dataset_split\test\Abutilon Indicum\071.jpg,Abutilon Indicum,Abutilon Indicum,True
+dataset_split\test\Abutilon Indicum\107.jpg,Abutilon Indicum,Justica adhatoda,False
+dataset_split\test\Abutilon Indicum\108.jpg,Abutilon Indicum,Abutilon Indicum,True
+dataset_split\test\Abutilon Indicum\114.jpg,Abutilon Indicum,Abutilon Indicum,True
+dataset_split\test\Abutilon Indicum\129.jpg,Abutilon Indicum,Abutilon Indicum,True
+dataset_split\test\Abutilon Indicum\139.jpg,Abutilon Indicum,Abutilon Indicum,True
+dataset_split\test\Abutilon Indicum\143.jpg,Abutilon Indicum,Abutilon Indicum,True
+dataset_split\test\Abutilon Indicum\151.jpg,Abutilon Indicum,Abutilon Indicum,True
+dataset_split\test\Abutilon Indicum\156.jpg,Abutilon Indicum,Abutilon Indicum,True
+dataset_split\test\Abutilon Indicum\162.jpg,Abutilon Indicum,Abutilon Indicum,True
+dataset_split\test\Abutilon Indicum\163.jpg,Abutilon Indicum,Abutilon Indicum,True
+dataset_split\test\Aloe barbadensis miller\000.jpg,Aloe barbadensis miller,Aloe barbadensis miller,True
+dataset_split\test\Aloe barbadensis miller\004.jpg,Aloe barbadensis miller,Aloe barbadensis miller,True
+dataset_split\test\Aloe barbadensis miller\007.jpg,Aloe barbadensis miller,Aloe barbadensis miller,True
+dataset_split\test\Aloe barbadensis miller\027.jpg,Aloe barbadensis miller,Aloe barbadensis miller,True
+dataset_split\test\Aloe barbadensis miller\028.jpg,Aloe barbadensis miller,Aloe barbadensis miller,True
+dataset_split\test\Aloe barbadensis miller\030.jpg,Aloe barbadensis miller,Aloe barbadensis miller,True
+dataset_split\test\Aloe barbadensis miller\039.jpg,Aloe barbadensis miller,Aloe barbadensis miller,True
+dataset_split\test\Aloe barbadensis miller\041.jpg,Aloe barbadensis miller,Aloe barbadensis miller,True
+dataset_split\test\Aloe barbadensis miller\045.jpg,Aloe barbadensis miller,Aloe barbadensis miller,True
+dataset_split\test\Aloe barbadensis miller\050.jpg,Aloe barbadensis miller,Aloe barbadensis miller,True
+dataset_split\test\Aloe barbadensis miller\061.jpg,Aloe barbadensis miller,Aloe barbadensis miller,True
+dataset_split\test\Aloe barbadensis miller\072.jpg,Aloe barbadensis miller,Aloe barbadensis miller,True
+dataset_split\test\Aloe barbadensis miller\076.jpg,Aloe barbadensis miller,Aloe barbadensis miller,True
+dataset_split\test\Aloe barbadensis miller\078.jpg,Aloe barbadensis miller,Aloe barbadensis miller,True
+dataset_split\test\Aloe barbadensis miller\082.jpg,Aloe barbadensis miller,Aloe barbadensis miller,True
+dataset_split\test\Aloe barbadensis miller\092.jpg,Aloe barbadensis miller,Aloe barbadensis miller,True
+dataset_split\test\Aloe barbadensis miller\095.jpg,Aloe barbadensis miller,Aloe barbadensis miller,True
+dataset_split\test\Aloe barbadensis miller\112.jpg,Aloe barbadensis miller,Aloe barbadensis miller,True
+dataset_split\test\Aloe barbadensis miller\121.jpg,Aloe barbadensis miller,Aloe barbadensis miller,True
+dataset_split\test\Aloe barbadensis miller\125.jpg,Aloe barbadensis miller,Aloe barbadensis miller,True
+dataset_split\test\Aloe barbadensis miller\128.jpg,Aloe barbadensis miller,Aloe barbadensis miller,True
+dataset_split\test\Aloe barbadensis miller\129.jpg,Aloe barbadensis miller,Aloe barbadensis miller,True
+dataset_split\test\Aloe barbadensis miller\142.jpg,Aloe barbadensis miller,Aloe barbadensis miller,True
+dataset_split\test\Calotropis gigantea\007.jpg,Calotropis gigantea,Calotropis gigantea,True
+dataset_split\test\Calotropis gigantea\019.jpg,Calotropis gigantea,Calotropis gigantea,True
+dataset_split\test\Calotropis gigantea\024.jpg,Calotropis gigantea,Calotropis gigantea,True
+dataset_split\test\Calotropis gigantea\027.jpg,Calotropis gigantea,Calotropis gigantea,True
+dataset_split\test\Calotropis gigantea\037.jpg,Calotropis gigantea,Calotropis gigantea,True
+dataset_split\test\Calotropis gigantea\040.jpg,Calotropis gigantea,Calotropis gigantea,True
+dataset_split\test\Calotropis gigantea\062.jpg,Calotropis gigantea,Calotropis gigantea,True
+dataset_split\test\Calotropis gigantea\069.jpg,Calotropis gigantea,Calotropis gigantea,True
+dataset_split\test\Calotropis gigantea\071.jpg,Calotropis gigantea,Calotropis gigantea,True
+dataset_split\test\Calotropis gigantea\074.jpg,Calotropis gigantea,Calotropis gigantea,True
+dataset_split\test\Calotropis gigantea\084.jpg,Calotropis gigantea,Calotropis gigantea,True
+dataset_split\test\Calotropis gigantea\089.jpg,Calotropis gigantea,Calotropis gigantea,True
+dataset_split\test\Calotropis gigantea\091.jpg,Calotropis gigantea,Calotropis gigantea,True
+dataset_split\test\Calotropis gigantea\093.jpg,Calotropis gigantea,Justica adhatoda,False
+dataset_split\test\Calotropis gigantea\094.jpg,Calotropis gigantea,Justica adhatoda,False
+dataset_split\test\Calotropis gigantea\100.jpg,Calotropis gigantea,Calotropis gigantea,True
+dataset_split\test\Calotropis gigantea\103.jpg,Calotropis gigantea,Calotropis gigantea,True
+dataset_split\test\Canna indica\20230702_174724.jpg,Canna indica,Canna indica,True
+dataset_split\test\Canna indica\IMG_20230702_174902_1.jpg,Canna indica,Canna indica,True
+dataset_split\test\Canna indica\IMG_20230702_174933_2.jpg,Canna indica,Canna indica,True
+dataset_split\test\Canna indica\IMG_20230702_174939_1.jpg,Canna indica,Canna indica,True
+dataset_split\test\Canna indica\IMG_20230702_174951_1.jpg,Canna indica,Canna indica,True
+dataset_split\test\Canna indica\Image1001.jpg,Canna indica,Canna indica,True
+dataset_split\test\Canna indica\Image101 (2).jpg,Canna indica,Canna indica,True
+dataset_split\test\Canna indica\Image126.jpg,Canna indica,Canna indica,True
+dataset_split\test\Canna indica\Image1426.jpg,Canna indica,Canna indica,True
+dataset_split\test\Canna indica\Image1476.jpg,Canna indica,Canna indica,True
+dataset_split\test\Canna indica\Image1626.jpg,Canna indica,Canna indica,True
+dataset_split\test\Canna indica\Image1751.jpg,Canna indica,Canna indica,True
+dataset_split\test\Canna indica\Image176 (2).jpg,Canna indica,Canna indica,True
+dataset_split\test\Canna indica\Image2151.jpg,Canna indica,Canna indica,True
+dataset_split\test\Canna indica\Image2501.jpg,Canna indica,Canna indica,True
+dataset_split\test\Canna indica\Image2851.jpg,Canna indica,Canna indica,True
+dataset_split\test\Canna indica\Image376 (2).jpg,Canna indica,Canna indica,True
+dataset_split\test\Canna indica\Image401 (2).jpg,Canna indica,Canna indica,True
+dataset_split\test\Canna indica\Image451 (2).jpg,Canna indica,Canna indica,True
+dataset_split\test\Canna indica\Image451.jpg,Canna indica,Canna indica,True
+dataset_split\test\Canna indica\Image51.jpg,Canna indica,Canna indica,True
+dataset_split\test\Canna indica\Image676.jpg,Canna indica,Canna indica,True
+dataset_split\test\Canna indica\Image701 (2).jpg,Canna indica,Canna indica,True
+dataset_split\test\Cissus quadrangularis\003.jpg,Cissus quadrangularis,Cissus quadrangularis,True
+dataset_split\test\Cissus quadrangularis\005.jpg,Cissus quadrangularis,Cissus quadrangularis,True
+dataset_split\test\Cissus quadrangularis\009.jpg,Cissus quadrangularis,Cissus quadrangularis,True
+dataset_split\test\Cissus quadrangularis\018.jpg,Cissus quadrangularis,Cissus quadrangularis,True
+dataset_split\test\Cissus quadrangularis\021.jpg,Cissus quadrangularis,Cissus quadrangularis,True
+dataset_split\test\Cissus quadrangularis\023.jpg,Cissus quadrangularis,Cissus quadrangularis,True
+dataset_split\test\Cissus quadrangularis\025.jpg,Cissus quadrangularis,Cissus quadrangularis,True
+dataset_split\test\Cissus quadrangularis\028.jpg,Cissus quadrangularis,Cissus quadrangularis,True
+dataset_split\test\Cissus quadrangularis\031.jpg,Cissus quadrangularis,Cissus quadrangularis,True
+dataset_split\test\Cissus quadrangularis\053.jpg,Cissus quadrangularis,Cissus quadrangularis,True
+dataset_split\test\Cissus quadrangularis\058.jpg,Cissus quadrangularis,Cissus quadrangularis,True
+dataset_split\test\Cissus quadrangularis\060.jpg,Cissus quadrangularis,Cissus quadrangularis,True
+dataset_split\test\Cissus quadrangularis\072.jpg,Cissus quadrangularis,Cissus quadrangularis,True
+dataset_split\test\Cissus quadrangularis\078.jpg,Cissus quadrangularis,Cissus quadrangularis,True
+dataset_split\test\Cissus quadrangularis\079.jpg,Cissus quadrangularis,Cissus quadrangularis,True
+dataset_split\test\Cissus quadrangularis\085.jpg,Cissus quadrangularis,Cissus quadrangularis,True
+dataset_split\test\Cissus quadrangularis\098.jpg,Cissus quadrangularis,Cissus quadrangularis,True
+dataset_split\test\Cissus quadrangularis\103.jpg,Cissus quadrangularis,Cissus quadrangularis,True
+dataset_split\test\Cissus quadrangularis\108.jpg,Cissus quadrangularis,Cissus quadrangularis,True
+dataset_split\test\Cissus quadrangularis\128.jpg,Cissus quadrangularis,Cissus quadrangularis,True
+dataset_split\test\Cissus quadrangularis\131.jpg,Cissus quadrangularis,Cissus quadrangularis,True
+dataset_split\test\Curcuma longa\006.jpg,Curcuma longa,Curcuma longa,True
+dataset_split\test\Curcuma longa\010.jpg,Curcuma longa,Curcuma longa,True
+dataset_split\test\Curcuma longa\017.jpg,Curcuma longa,Curcuma longa,True
+dataset_split\test\Curcuma longa\023.jpg,Curcuma longa,Curcuma longa,True
+dataset_split\test\Curcuma longa\027.jpg,Curcuma longa,Curcuma longa,True
+dataset_split\test\Curcuma longa\033.jpg,Curcuma longa,Curcuma longa,True
+dataset_split\test\Curcuma longa\035.jpg,Curcuma longa,Curcuma longa,True
+dataset_split\test\Curcuma longa\041.jpg,Curcuma longa,Curcuma longa,True
+dataset_split\test\Curcuma longa\043.jpg,Curcuma longa,Curcuma longa,True
+dataset_split\test\Curcuma longa\048.jpg,Curcuma longa,Curcuma longa,True
+dataset_split\test\Curcuma longa\053.jpg,Curcuma longa,Curcuma longa,True
+dataset_split\test\Curcuma longa\054.jpg,Curcuma longa,Curcuma longa,True
+dataset_split\test\Curcuma longa\058.jpg,Curcuma longa,Curcuma longa,True
+dataset_split\test\Curcuma longa\059.jpg,Curcuma longa,Curcuma longa,True
+dataset_split\test\Curcuma longa\082.jpg,Curcuma longa,Curcuma longa,True
+dataset_split\test\Curcuma longa\100.jpg,Curcuma longa,Curcuma longa,True
+dataset_split\test\Curcuma longa\101.jpg,Curcuma longa,Curcuma longa,True
+dataset_split\test\Eclipta prostrate\002.jpg,Eclipta prostrate,Eclipta prostrate,True
+dataset_split\test\Eclipta prostrate\004.jpg,Eclipta prostrate,Eclipta prostrate,True
+dataset_split\test\Eclipta prostrate\007.jpg,Eclipta prostrate,Eclipta prostrate,True
+dataset_split\test\Eclipta prostrate\021.jpg,Eclipta prostrate,Eclipta prostrate,True
+dataset_split\test\Eclipta prostrate\023.jpg,Eclipta prostrate,Eclipta prostrate,True
+dataset_split\test\Eclipta prostrate\046.jpg,Eclipta prostrate,Eclipta prostrate,True
+dataset_split\test\Eclipta prostrate\048.jpg,Eclipta prostrate,Eclipta prostrate,True
+dataset_split\test\Eclipta prostrate\054.jpg,Eclipta prostrate,Eclipta prostrate,True
+dataset_split\test\Eclipta prostrate\061.jpg,Eclipta prostrate,Eclipta prostrate,True
+dataset_split\test\Eclipta prostrate\066.jpg,Eclipta prostrate,Eclipta prostrate,True
+dataset_split\test\Eclipta prostrate\070.jpg,Eclipta prostrate,Eclipta prostrate,True
+dataset_split\test\Eclipta prostrate\071.jpg,Eclipta prostrate,Eclipta prostrate,True
+dataset_split\test\Eclipta prostrate\083.jpg,Eclipta prostrate,Eclipta prostrate,True
+dataset_split\test\Eclipta prostrate\086.jpg,Eclipta prostrate,Eclipta prostrate,True
+dataset_split\test\Eclipta prostrate\087.jpg,Eclipta prostrate,Eclipta prostrate,True
+dataset_split\test\Eclipta prostrate\090.jpg,Eclipta prostrate,Eclipta prostrate,True
+dataset_split\test\Eclipta prostrate\104.jpg,Eclipta prostrate,Eclipta prostrate,True
+dataset_split\test\Eclipta prostrate\114.jpg,Eclipta prostrate,Eclipta prostrate,True
+dataset_split\test\Eclipta prostrate\121.jpg,Eclipta prostrate,Eclipta prostrate,True
+dataset_split\test\Eclipta prostrate\124.jpg,Eclipta prostrate,Eclipta prostrate,True
+dataset_split\test\Eclipta prostrate\125.jpg,Eclipta prostrate,Eclipta prostrate,True
+dataset_split\test\Eclipta prostrate\126.jpg,Eclipta prostrate,Eclipta prostrate,True
+dataset_split\test\Eclipta prostrate\132.jpg,Eclipta prostrate,Eclipta prostrate,True
+dataset_split\test\Eclipta prostrate\142.jpg,Eclipta prostrate,Eclipta prostrate,True
+dataset_split\test\Eclipta prostrate\152.jpg,Eclipta prostrate,Eclipta prostrate,True
+dataset_split\test\Eclipta prostrate\165.jpg,Eclipta prostrate,Eclipta prostrate,True
+dataset_split\test\Eclipta prostrate\176.jpg,Eclipta prostrate,Eclipta prostrate,True
+dataset_split\test\Eclipta prostrate\179.jpg,Eclipta prostrate,Eclipta prostrate,True
+dataset_split\test\Eclipta prostrate\184.jpg,Eclipta prostrate,Eclipta prostrate,True
+dataset_split\test\Eclipta prostrate\185.jpg,Eclipta prostrate,Eclipta prostrate,True
+dataset_split\test\Eclipta prostrate\188.jpg,Eclipta prostrate,Eclipta prostrate,True
+dataset_split\test\Eclipta prostrate\193.jpg,Eclipta prostrate,Eclipta prostrate,True
+dataset_split\test\Eichhornia Crassipes\01 (107).jpg,Eichhornia Crassipes,Eichhornia Crassipes,True
+dataset_split\test\Eichhornia Crassipes\01 (119).jpg,Eichhornia Crassipes,Eichhornia Crassipes,True
+dataset_split\test\Eichhornia Crassipes\01 (12).jpg,Eichhornia Crassipes,Eichhornia Crassipes,True
+dataset_split\test\Eichhornia Crassipes\01 (122).jpg,Eichhornia Crassipes,Eichhornia Crassipes,True
+dataset_split\test\Eichhornia Crassipes\01 (125).jpg,Eichhornia Crassipes,Eichhornia Crassipes,True
+dataset_split\test\Eichhornia Crassipes\01 (136).jpg,Eichhornia Crassipes,Eichhornia Crassipes,True
+dataset_split\test\Eichhornia Crassipes\01 (140).jpg,Eichhornia Crassipes,Eichhornia Crassipes,True
+dataset_split\test\Eichhornia Crassipes\01 (157).jpg,Eichhornia Crassipes,Eichhornia Crassipes,True
+dataset_split\test\Eichhornia Crassipes\01 (163).jpg,Eichhornia Crassipes,Sesbania grandiflora,False
+dataset_split\test\Eichhornia Crassipes\01 (165).jpg,Eichhornia Crassipes,Eichhornia Crassipes,True
+dataset_split\test\Eichhornia Crassipes\01 (171).jpg,Eichhornia Crassipes,Canna indica,False
+dataset_split\test\Eichhornia Crassipes\01 (173).jpg,Eichhornia Crassipes,Eichhornia Crassipes,True
+dataset_split\test\Eichhornia Crassipes\01 (175).jpg,Eichhornia Crassipes,Eichhornia Crassipes,True
+dataset_split\test\Eichhornia Crassipes\01 (176).jpg,Eichhornia Crassipes,Eichhornia Crassipes,True
+dataset_split\test\Eichhornia Crassipes\01 (18).jpg,Eichhornia Crassipes,Eichhornia Crassipes,True
+dataset_split\test\Eichhornia Crassipes\01 (191).jpg,Eichhornia Crassipes,Eichhornia Crassipes,True
+dataset_split\test\Eichhornia Crassipes\01 (192).jpg,Eichhornia Crassipes,Eichhornia Crassipes,True
+dataset_split\test\Eichhornia Crassipes\01 (2).jpg,Eichhornia Crassipes,Eichhornia Crassipes,True
+dataset_split\test\Eichhornia Crassipes\01 (20).jpg,Eichhornia Crassipes,Eichhornia Crassipes,True
+dataset_split\test\Eichhornia Crassipes\01 (26).jpg,Eichhornia Crassipes,Eichhornia Crassipes,True
+dataset_split\test\Eichhornia Crassipes\01 (30).jpg,Eichhornia Crassipes,Eichhornia Crassipes,True
+dataset_split\test\Eichhornia Crassipes\01 (34).jpg,Eichhornia Crassipes,Eichhornia Crassipes,True
+dataset_split\test\Eichhornia Crassipes\01 (39).jpg,Eichhornia Crassipes,Eichhornia Crassipes,True
+dataset_split\test\Eichhornia Crassipes\01 (4).jpg,Eichhornia Crassipes,Eichhornia Crassipes,True
+dataset_split\test\Eichhornia Crassipes\01 (52).jpg,Eichhornia Crassipes,Eichhornia Crassipes,True
+dataset_split\test\Eichhornia Crassipes\01 (60).jpg,Eichhornia Crassipes,Eichhornia Crassipes,True
+dataset_split\test\Eichhornia Crassipes\01 (72).jpg,Eichhornia Crassipes,Eichhornia Crassipes,True
+dataset_split\test\Eichhornia Crassipes\01 (79).jpg,Eichhornia Crassipes,Eichhornia Crassipes,True
+dataset_split\test\Eichhornia Crassipes\01 (80).jpg,Eichhornia Crassipes,Eichhornia Crassipes,True
+dataset_split\test\Eichhornia Crassipes\01 (86).jpg,Eichhornia Crassipes,Eichhornia Crassipes,True
+dataset_split\test\Eichhornia Crassipes\01 (94)(1).jpg,Eichhornia Crassipes,Eichhornia Crassipes,True
+dataset_split\test\Hibiscus Rosasinensis\aaa (10).jpg,Hibiscus Rosasinensis,Hibiscus Rosasinensis,True
+dataset_split\test\Hibiscus Rosasinensis\aaa (107).jpg,Hibiscus Rosasinensis,Hibiscus Rosasinensis,True
+dataset_split\test\Hibiscus Rosasinensis\aaa (15).jpg,Hibiscus Rosasinensis,Hibiscus Rosasinensis,True
+dataset_split\test\Hibiscus Rosasinensis\aaa (23).jpg,Hibiscus Rosasinensis,Hibiscus Rosasinensis,True
+dataset_split\test\Hibiscus Rosasinensis\aaa (26).jpg,Hibiscus Rosasinensis,Hibiscus Rosasinensis,True
+dataset_split\test\Hibiscus Rosasinensis\aaa (3).jpg,Hibiscus Rosasinensis,Curcuma longa,False
+dataset_split\test\Hibiscus Rosasinensis\aaa (37).jpg,Hibiscus Rosasinensis,Hibiscus Rosasinensis,True
+dataset_split\test\Hibiscus Rosasinensis\aaa (48).jpg,Hibiscus Rosasinensis,Hibiscus Rosasinensis,True
+dataset_split\test\Hibiscus Rosasinensis\aaa (5).jpg,Hibiscus Rosasinensis,Hibiscus Rosasinensis,True
+dataset_split\test\Hibiscus Rosasinensis\aaa (50).jpg,Hibiscus Rosasinensis,Hibiscus Rosasinensis,True
+dataset_split\test\Hibiscus Rosasinensis\aaa (6).jpg,Hibiscus Rosasinensis,Hibiscus Rosasinensis,True
+dataset_split\test\Hibiscus Rosasinensis\aaa (65).jpg,Hibiscus Rosasinensis,Hibiscus Rosasinensis,True
+dataset_split\test\Hibiscus Rosasinensis\aaa (70).jpg,Hibiscus Rosasinensis,Hibiscus Rosasinensis,True
+dataset_split\test\Hibiscus Rosasinensis\aaa (74).jpg,Hibiscus Rosasinensis,Hibiscus Rosasinensis,True
+dataset_split\test\Hibiscus Rosasinensis\aaa (75).jpg,Hibiscus Rosasinensis,Hibiscus Rosasinensis,True
+dataset_split\test\Hibiscus Rosasinensis\aaa (9).jpg,Hibiscus Rosasinensis,Hibiscus Rosasinensis,True
+dataset_split\test\Hibiscus Rosasinensis\aaa (96).jpg,Hibiscus Rosasinensis,Hibiscus Rosasinensis,True
+dataset_split\test\Hibiscus Rosasinensis\aaa (98).jpg,Hibiscus Rosasinensis,Hibiscus Rosasinensis,True
+dataset_split\test\Ixora coccinea\004.jpg,Ixora coccinea,Ixora coccinea,True
+dataset_split\test\Ixora coccinea\005.jpg,Ixora coccinea,Phyllanthus amarus,False
+dataset_split\test\Ixora coccinea\009.jpg,Ixora coccinea,Ixora coccinea,True
+dataset_split\test\Ixora coccinea\015.jpg,Ixora coccinea,Ixora coccinea,True
+dataset_split\test\Ixora coccinea\018.jpg,Ixora coccinea,Ixora coccinea,True
+dataset_split\test\Ixora coccinea\033.jpg,Ixora coccinea,Ixora coccinea,True
+dataset_split\test\Ixora coccinea\043.jpg,Ixora coccinea,Ixora coccinea,True
+dataset_split\test\Ixora coccinea\057.jpg,Ixora coccinea,Ixora coccinea,True
+dataset_split\test\Ixora coccinea\064.jpg,Ixora coccinea,Ixora coccinea,True
+dataset_split\test\Ixora coccinea\068.jpg,Ixora coccinea,Ixora coccinea,True
+dataset_split\test\Ixora coccinea\087.jpg,Ixora coccinea,Ixora coccinea,True
+dataset_split\test\Ixora coccinea\090.jpg,Ixora coccinea,Ixora coccinea,True
+dataset_split\test\Ixora coccinea\091.jpg,Ixora coccinea,Ixora coccinea,True
+dataset_split\test\Ixora coccinea\092.jpg,Ixora coccinea,Ixora coccinea,True
+dataset_split\test\Ixora coccinea\098.jpg,Ixora coccinea,Ixora coccinea,True
+dataset_split\test\Ixora coccinea\111.jpg,Ixora coccinea,Ixora coccinea,True
+dataset_split\test\Ixora coccinea\114.jpg,Ixora coccinea,Ixora coccinea,True
+dataset_split\test\Ixora coccinea\117.jpg,Ixora coccinea,Ixora coccinea,True
+dataset_split\test\Justica adhatoda\aaa (11).jpg,Justica adhatoda,Justica adhatoda,True
+dataset_split\test\Justica adhatoda\aaa (15).jpg,Justica adhatoda,Justica adhatoda,True
+dataset_split\test\Justica adhatoda\aaa (17).jpg,Justica adhatoda,Justica adhatoda,True
+dataset_split\test\Justica adhatoda\aaa (18).jpg,Justica adhatoda,Justica adhatoda,True
+dataset_split\test\Justica adhatoda\aaa (20).jpg,Justica adhatoda,Justica adhatoda,True
+dataset_split\test\Justica adhatoda\aaa (46).jpg,Justica adhatoda,Justica adhatoda,True
+dataset_split\test\Justica adhatoda\aaa (55).jpg,Justica adhatoda,Justica adhatoda,True
+dataset_split\test\Justica adhatoda\aaa (58).jpg,Justica adhatoda,Justica adhatoda,True
+dataset_split\test\Justica adhatoda\aaa (6).jpg,Justica adhatoda,Justica adhatoda,True
+dataset_split\test\Justica adhatoda\aaa (61).jpg,Justica adhatoda,Justica adhatoda,True
+dataset_split\test\Justica adhatoda\aaa (64).jpg,Justica adhatoda,Justica adhatoda,True
+dataset_split\test\Justica adhatoda\aaa (65).jpg,Justica adhatoda,Justica adhatoda,True
+dataset_split\test\Justica adhatoda\aaa (79).jpg,Justica adhatoda,Justica adhatoda,True
+dataset_split\test\Justica adhatoda\aaa (83).jpg,Justica adhatoda,Justica adhatoda,True
+dataset_split\test\Justica adhatoda\aaa (88).jpg,Justica adhatoda,Justica adhatoda,True
+dataset_split\test\Murraya koenigii\000.jpg,Murraya koenigii,Murraya koenigii,True
+dataset_split\test\Murraya koenigii\003.jpg,Murraya koenigii,Curcuma longa,False
+dataset_split\test\Murraya koenigii\008.jpg,Murraya koenigii,Murraya koenigii,True
+dataset_split\test\Murraya koenigii\018.jpg,Murraya koenigii,Murraya koenigii,True
+dataset_split\test\Murraya koenigii\023.jpg,Murraya koenigii,Murraya koenigii,True
+dataset_split\test\Murraya koenigii\034.jpg,Murraya koenigii,Murraya koenigii,True
+dataset_split\test\Murraya koenigii\039.jpg,Murraya koenigii,Murraya koenigii,True
+dataset_split\test\Murraya koenigii\043.jpg,Murraya koenigii,Murraya koenigii,True
+dataset_split\test\Murraya koenigii\044.jpg,Murraya koenigii,Murraya koenigii,True
+dataset_split\test\Murraya koenigii\051.jpg,Murraya koenigii,Murraya koenigii,True
+dataset_split\test\Murraya koenigii\072.jpg,Murraya koenigii,Murraya koenigii,True
+dataset_split\test\Murraya koenigii\081.jpg,Murraya koenigii,Murraya koenigii,True
+dataset_split\test\Murraya koenigii\084.jpg,Murraya koenigii,Murraya koenigii,True
+dataset_split\test\Murraya koenigii\089.jpg,Murraya koenigii,Murraya koenigii,True
+dataset_split\test\Murraya koenigii\094.jpg,Murraya koenigii,Murraya koenigii,True
+dataset_split\test\Murraya koenigii\097.jpg,Murraya koenigii,Murraya koenigii,True
+dataset_split\test\Murraya koenigii\107.jpg,Murraya koenigii,Murraya koenigii,True
+dataset_split\test\Murraya koenigii\IMG_20220331_071449_1.jpg,Murraya koenigii,Justica adhatoda,False
+dataset_split\test\Murraya koenigii\IMG_20220331_071453.jpg,Murraya koenigii,Justica adhatoda,False
+dataset_split\test\Ocimum tenuiflorum\009.jpg,Ocimum tenuiflorum,Ocimum tenuiflorum,True
+dataset_split\test\Ocimum tenuiflorum\014.jpg,Ocimum tenuiflorum,Eclipta prostrate,False
+dataset_split\test\Ocimum tenuiflorum\021.jpg,Ocimum tenuiflorum,Ocimum tenuiflorum,True
+dataset_split\test\Ocimum tenuiflorum\024.jpg,Ocimum tenuiflorum,Ocimum tenuiflorum,True
+dataset_split\test\Ocimum tenuiflorum\028.jpg,Ocimum tenuiflorum,Justica adhatoda,False
+dataset_split\test\Ocimum tenuiflorum\039.jpg,Ocimum tenuiflorum,Ocimum tenuiflorum,True
+dataset_split\test\Ocimum tenuiflorum\042.jpg,Ocimum tenuiflorum,Ocimum tenuiflorum,True
+dataset_split\test\Ocimum tenuiflorum\043.jpg,Ocimum tenuiflorum,Ocimum tenuiflorum,True
+dataset_split\test\Ocimum tenuiflorum\044.jpg,Ocimum tenuiflorum,Ocimum tenuiflorum,True
+dataset_split\test\Ocimum tenuiflorum\050.jpg,Ocimum tenuiflorum,Ocimum tenuiflorum,True
+dataset_split\test\Ocimum tenuiflorum\065.jpg,Ocimum tenuiflorum,Ocimum tenuiflorum,True
+dataset_split\test\Ocimum tenuiflorum\067.jpg,Ocimum tenuiflorum,Ocimum tenuiflorum,True
+dataset_split\test\Ocimum tenuiflorum\081.jpg,Ocimum tenuiflorum,Ocimum tenuiflorum,True
+dataset_split\test\Ocimum tenuiflorum\087.jpg,Ocimum tenuiflorum,Ocimum tenuiflorum,True
+dataset_split\test\Ocimum tenuiflorum\093.jpg,Ocimum tenuiflorum,Ocimum tenuiflorum,True
+dataset_split\test\Ocimum tenuiflorum\095.jpg,Ocimum tenuiflorum,Ocimum tenuiflorum,True
+dataset_split\test\Ouretlanata\01 (108).jpg,Ouretlanata,Ouretlanata,True
+dataset_split\test\Ouretlanata\01 (113).jpg,Ouretlanata,Ouretlanata,True
+dataset_split\test\Ouretlanata\01 (115).jpg,Ouretlanata,Ouretlanata,True
+dataset_split\test\Ouretlanata\01 (116).jpg,Ouretlanata,Justica adhatoda,False
+dataset_split\test\Ouretlanata\01 (27).jpg,Ouretlanata,Ouretlanata,True
+dataset_split\test\Ouretlanata\01 (3).jpg,Ouretlanata,Ouretlanata,True
+dataset_split\test\Ouretlanata\01 (31).jpg,Ouretlanata,Ouretlanata,True
+dataset_split\test\Ouretlanata\01 (37).jpg,Ouretlanata,Ouretlanata,True
+dataset_split\test\Ouretlanata\01 (59).jpg,Ouretlanata,Ouretlanata,True
+dataset_split\test\Ouretlanata\01 (60).jpg,Ouretlanata,Ouretlanata,True
+dataset_split\test\Ouretlanata\01 (61).jpg,Ouretlanata,Ouretlanata,True
+dataset_split\test\Ouretlanata\01 (67).jpg,Ouretlanata,Ouretlanata,True
+dataset_split\test\Ouretlanata\01 (68).jpg,Ouretlanata,Ouretlanata,True
+dataset_split\test\Ouretlanata\01 (72).jpg,Ouretlanata,Ouretlanata,True
+dataset_split\test\Ouretlanata\01 (75).jpg,Ouretlanata,Ouretlanata,True
+dataset_split\test\Ouretlanata\01 (90).jpg,Ouretlanata,Ouretlanata,True
+dataset_split\test\Ouretlanata\01 (92).jpg,Ouretlanata,Ouretlanata,True
+dataset_split\test\Ouretlanata\01 (97).jpg,Ouretlanata,Ouretlanata,True
+dataset_split\test\Ouretlanata\01 (98).jpg,Ouretlanata,Ouretlanata,True
+dataset_split\test\Phyllanthus amarus\003.jpg,Phyllanthus amarus,Eclipta prostrate,False
+dataset_split\test\Phyllanthus amarus\006.jpg,Phyllanthus amarus,Phyllanthus amarus,True
+dataset_split\test\Phyllanthus amarus\010.jpg,Phyllanthus amarus,Phyllanthus amarus,True
+dataset_split\test\Phyllanthus amarus\012.jpg,Phyllanthus amarus,Phyllanthus amarus,True
+dataset_split\test\Phyllanthus amarus\018.jpg,Phyllanthus amarus,Phyllanthus amarus,True
+dataset_split\test\Phyllanthus amarus\028.jpg,Phyllanthus amarus,Phyllanthus amarus,True
+dataset_split\test\Phyllanthus amarus\030.jpg,Phyllanthus amarus,Phyllanthus amarus,True
+dataset_split\test\Phyllanthus amarus\040.jpg,Phyllanthus amarus,Phyllanthus amarus,True
+dataset_split\test\Phyllanthus amarus\042.jpg,Phyllanthus amarus,Phyllanthus amarus,True
+dataset_split\test\Phyllanthus amarus\047.jpg,Phyllanthus amarus,Phyllanthus amarus,True
+dataset_split\test\Phyllanthus amarus\049.jpg,Phyllanthus amarus,Phyllanthus amarus,True
+dataset_split\test\Phyllanthus amarus\050.jpg,Phyllanthus amarus,Phyllanthus amarus,True
+dataset_split\test\Phyllanthus amarus\053.jpg,Phyllanthus amarus,Phyllanthus amarus,True
+dataset_split\test\Phyllanthus amarus\064.jpg,Phyllanthus amarus,Phyllanthus amarus,True
+dataset_split\test\Phyllanthus amarus\083.jpg,Phyllanthus amarus,Phyllanthus amarus,True
+dataset_split\test\Phyllanthus amarus\091.jpg,Phyllanthus amarus,Phyllanthus amarus,True
+dataset_split\test\Phyllanthus amarus\105.jpg,Phyllanthus amarus,Phyllanthus amarus,True
+dataset_split\test\Phyllanthus amarus\110.jpg,Phyllanthus amarus,Phyllanthus amarus,True
+dataset_split\test\Ricinus communis\01 (102).jpg,Ricinus communis,Ricinus communis,True
+dataset_split\test\Ricinus communis\01 (103).jpg,Ricinus communis,Ricinus communis,True
+dataset_split\test\Ricinus communis\01 (22).jpg,Ricinus communis,Ricinus communis,True
+dataset_split\test\Ricinus communis\01 (23).jpg,Ricinus communis,Ricinus communis,True
+dataset_split\test\Ricinus communis\01 (3).jpg,Ricinus communis,Ricinus communis,True
+dataset_split\test\Ricinus communis\01 (33).jpg,Ricinus communis,Ricinus communis,True
+dataset_split\test\Ricinus communis\01 (36).jpg,Ricinus communis,Ricinus communis,True
+dataset_split\test\Ricinus communis\01 (37).jpg,Ricinus communis,Ricinus communis,True
+dataset_split\test\Ricinus communis\01 (41).jpg,Ricinus communis,Ricinus communis,True
+dataset_split\test\Ricinus communis\01 (46).jpg,Ricinus communis,Ricinus communis,True
+dataset_split\test\Ricinus communis\01 (55).jpg,Ricinus communis,Ricinus communis,True
+dataset_split\test\Ricinus communis\01 (6).jpg,Ricinus communis,Ricinus communis,True
+dataset_split\test\Ricinus communis\01 (63).jpg,Ricinus communis,Ricinus communis,True
+dataset_split\test\Ricinus communis\01 (75).jpg,Ricinus communis,Ricinus communis,True
+dataset_split\test\Ricinus communis\01 (92).jpg,Ricinus communis,Ricinus communis,True
+dataset_split\test\Ricinus communis\01 (98).jpg,Ricinus communis,Ricinus communis,True
+dataset_split\test\Ricinus communis\01 (99).jpg,Ricinus communis,Ricinus communis,True
+dataset_split\test\Senna Atriculata\009.jpg,Senna Atriculata,Senna Atriculata,True
+dataset_split\test\Senna Atriculata\015.jpg,Senna Atriculata,Senna Atriculata,True
+dataset_split\test\Senna Atriculata\017.jpg,Senna Atriculata,Senna Atriculata,True
+dataset_split\test\Senna Atriculata\022.jpg,Senna Atriculata,Senna Atriculata,True
+dataset_split\test\Senna Atriculata\025.jpg,Senna Atriculata,Senna Atriculata,True
+dataset_split\test\Senna Atriculata\027.jpg,Senna Atriculata,Senna Atriculata,True
+dataset_split\test\Senna Atriculata\033.jpg,Senna Atriculata,Senna Atriculata,True
+dataset_split\test\Senna Atriculata\036.jpg,Senna Atriculata,Senna Atriculata,True
+dataset_split\test\Senna Atriculata\057.jpg,Senna Atriculata,Senna Atriculata,True
+dataset_split\test\Senna Atriculata\062.jpg,Senna Atriculata,Senna Atriculata,True
+dataset_split\test\Senna Atriculata\071.jpg,Senna Atriculata,Senna Atriculata,True
+dataset_split\test\Senna Atriculata\087.jpg,Senna Atriculata,Senna Atriculata,True
+dataset_split\test\Senna Atriculata\097.jpg,Senna Atriculata,Senna Atriculata,True
+dataset_split\test\Senna Atriculata\099.jpg,Senna Atriculata,Senna Atriculata,True
+dataset_split\test\Senna Atriculata\100.jpg,Senna Atriculata,Senna Atriculata,True
+dataset_split\test\Senna Atriculata\108.jpg,Senna Atriculata,Senna Atriculata,True
+dataset_split\test\Senna Atriculata\125.jpg,Senna Atriculata,Senna Atriculata,True
+dataset_split\test\Senna Atriculata\126.jpg,Senna Atriculata,Senna Atriculata,True
+dataset_split\test\Senna Atriculata\130.jpg,Senna Atriculata,Senna Atriculata,True
+dataset_split\test\Senna Atriculata\131.jpg,Senna Atriculata,Senna Atriculata,True
+dataset_split\test\Sesbania grandiflora\01 (16).jpg,Sesbania grandiflora,Sesbania grandiflora,True
+dataset_split\test\Sesbania grandiflora\01 (18).jpg,Sesbania grandiflora,Sesbania grandiflora,True
+dataset_split\test\Sesbania grandiflora\01 (28).jpg,Sesbania grandiflora,Sesbania grandiflora,True
+dataset_split\test\Sesbania grandiflora\01 (33).jpg,Sesbania grandiflora,Sesbania grandiflora,True
+dataset_split\test\Sesbania grandiflora\01 (38).jpg,Sesbania grandiflora,Sesbania grandiflora,True
+dataset_split\test\Sesbania grandiflora\01 (44).jpg,Sesbania grandiflora,Sesbania grandiflora,True
+dataset_split\test\Sesbania grandiflora\01 (56).jpg,Sesbania grandiflora,Sesbania grandiflora,True
+dataset_split\test\Sesbania grandiflora\01 (58).jpg,Sesbania grandiflora,Sesbania grandiflora,True
+dataset_split\test\Sesbania grandiflora\01 (60).jpg,Sesbania grandiflora,Sesbania grandiflora,True
+dataset_split\test\Sesbania grandiflora\01 (62).jpg,Sesbania grandiflora,Sesbania grandiflora,True
+dataset_split\test\Sesbania grandiflora\01 (63).jpg,Sesbania grandiflora,Sesbania grandiflora,True
+dataset_split\test\Sesbania grandiflora\01 (65).jpg,Sesbania grandiflora,Sesbania grandiflora,True
+dataset_split\test\Sesbania grandiflora\01 (84).jpg,Sesbania grandiflora,Sesbania grandiflora,True
+dataset_split\test\Sesbania grandiflora\01 (9).jpg,Sesbania grandiflora,Sesbania grandiflora,True
+dataset_split\test\Sesbania grandiflora\01 (90).jpg,Sesbania grandiflora,Sesbania grandiflora,True
+dataset_split\test\Trifolium Repens\aaa (17).jpg,Trifolium Repens,Trifolium Repens,True
+dataset_split\test\Trifolium Repens\aaa (2).jpg,Trifolium Repens,Trifolium Repens,True
+dataset_split\test\Trifolium Repens\aaa (22).jpg,Trifolium Repens,Trifolium Repens,True
+dataset_split\test\Trifolium Repens\aaa (23).jpg,Trifolium Repens,Trifolium Repens,True
+dataset_split\test\Trifolium Repens\aaa (40).jpg,Trifolium Repens,Trifolium Repens,True
+dataset_split\test\Trifolium Repens\aaa (48).jpg,Trifolium Repens,Trifolium Repens,True
+dataset_split\test\Trifolium Repens\aaa (51).jpg,Trifolium Repens,Trifolium Repens,True
+dataset_split\test\Trifolium Repens\aaa (53).jpg,Trifolium Repens,Trifolium Repens,True
+dataset_split\test\Trifolium Repens\aaa (54).jpg,Trifolium Repens,Trifolium Repens,True
+dataset_split\test\Trifolium Repens\aaa (60).jpg,Trifolium Repens,Trifolium Repens,True
+dataset_split\test\Trifolium Repens\aaa (67).jpg,Trifolium Repens,Trifolium Repens,True
+dataset_split\test\Trifolium Repens\aaa (72).jpg,Trifolium Repens,Trifolium Repens,True
+dataset_split\test\Trifolium Repens\aaa (8).jpg,Trifolium Repens,Trifolium Repens,True
+dataset_split\test\Trifolium Repens\aaa (80).jpg,Trifolium Repens,Murraya koenigii,False
+dataset_split\test\Trifolium Repens\aaa (88).jpg,Trifolium Repens,Trifolium Repens,True
+dataset_split\test\Ziziphus mauritiana\01 (31).jpg,Ziziphus mauritiana,Ziziphus mauritiana,True
+dataset_split\test\Ziziphus mauritiana\01 (38).jpg,Ziziphus mauritiana,Ziziphus mauritiana,True
+dataset_split\test\Ziziphus mauritiana\01 (4).jpg,Ziziphus mauritiana,Ziziphus mauritiana,True
+dataset_split\test\Ziziphus mauritiana\01 (41).jpg,Ziziphus mauritiana,Ziziphus mauritiana,True
+dataset_split\test\Ziziphus mauritiana\01 (44).jpg,Ziziphus mauritiana,Ziziphus mauritiana,True
+dataset_split\test\Ziziphus mauritiana\01 (49).jpg,Ziziphus mauritiana,Ziziphus mauritiana,True
+dataset_split\test\Ziziphus mauritiana\01 (50).jpg,Ziziphus mauritiana,Ziziphus mauritiana,True
+dataset_split\test\Ziziphus mauritiana\01 (62).jpg,Ziziphus mauritiana,Ziziphus mauritiana,True
+dataset_split\test\Ziziphus mauritiana\01 (65).jpg,Ziziphus mauritiana,Ziziphus mauritiana,True
+dataset_split\test\Ziziphus mauritiana\01 (71).jpg,Ziziphus mauritiana,Ziziphus mauritiana,True
+dataset_split\test\Ziziphus mauritiana\01 (72).jpg,Ziziphus mauritiana,Ziziphus mauritiana,True
+dataset_split\test\Ziziphus mauritiana\01 (74).jpg,Ziziphus mauritiana,Ziziphus mauritiana,True
+dataset_split\test\Ziziphus mauritiana\01 (80).jpg,Ziziphus mauritiana,Ziziphus mauritiana,True
+dataset_split\test\Ziziphus mauritiana\01 (84).jpg,Ziziphus mauritiana,Ziziphus mauritiana,True
+dataset_split\test\Ziziphus mauritiana\01 (88).jpg,Ziziphus mauritiana,Aloe barbadensis miller,False
