@@ -7,3 +7,5 @@
 *.pth
 *.ckpt
 /lightning_logs
+Data1
+Data
