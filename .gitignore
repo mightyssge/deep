@@ -4,8 +4,6 @@
 /data.ipynb
 /Redes_Siamesas (2).ipynb
 /lightning_logs/
-*.pth
-*.ckpt
 /lightning_logs
 Data1
 Data
